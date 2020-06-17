@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=100000,RESOLUTION=256x144,AUDIO="aac",CODECS="avc1.4d401e,mp4a.40.2"
+https://video-frt3-1.xx.fbcdn.net/hvideo-lla2-cln/_nc_cat-107/v/rC8drwYomRDGGUNFbyXuV/live-hls/live-qd/103493588081673__v__.m3u8?_nc_rl=AfBNiDbc8GGbpxab&ms=m_CN&oh=7fb29675d299e2653525d8d19a351b23&oe=5EEC32D5
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=640x360,AUDIO="aac",CODECS="avc1.4d401e,mp4a.40.2"
+https://video-frt3-1.xx.fbcdn.net/hvideo-lla2-cln/_nc_cat-107/v/rC8drwYomRDGGUNFbyXuV/live-hls/live-md/103493588081673__v__.m3u8?_nc_rl=AfBNiDbc8GGbpxab&ms=m_CN&oh=9025d5648cb7d47e4322f3ae0a1b4058&oe=5EEC04D9
+#EXT-X-STREAM-INF:BANDWIDTH=250000,RESOLUTION=426x240,AUDIO="aac",CODECS="avc1.4d401e,mp4a.40.2"
+https://video-frt3-1.xx.fbcdn.net/hvideo-lla2-cln/_nc_cat-107/v/rC8drwYomRDGGUNFbyXuV/live-hls/live-ld/103493588081673__v__.m3u8?_nc_rl=AfBNiDbc8GGbpxab&ms=m_CN&oh=b78ffa7f0739d8ef241e634cb3aac6cd&oe=5EEC08C6
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720,AUDIO="aac",CODECS="avc1.4d401e,mp4a.40.2"
+https://video-frt3-1.xx.fbcdn.net/hvideo-lla2-cln/_nc_cat-107/v/rC8drwYomRDGGUNFbyXuV/live-hls/live-hd1/103493588081673__v__.m3u8?_nc_rl=AfBNiDbc8GGbpxab&ms=m_CN&oh=423a933662453ca75ee2885d69788ecf&oe=5EEBF30F
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=854x480,AUDIO="aac",CODECS="avc1.4d401e,mp4a.40.2"
+https://video-frt3-1.xx.fbcdn.net/hvideo-lla2-cln/_nc_cat-107/v/rC8drwYomRDGGUNFbyXuV/live-hls/live-hd/103493588081673__v__.m3u8?_nc_rl=AfBNiDbc8GGbpxab&ms=m_CN&oh=9bffd985028479dce984305561b98cdf&oe=5EEBD2B2
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="English",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://video-frt3-1.xx.fbcdn.net/hvideo-lla2-cln/_nc_cat-107/v/rC8drwYomRDGGUNFbyXuV/live-hls/live-qd/103493588081673__a__.m3u8?_nc_rl=AfBNiDbc8GGbpxab&ms=m_CN&oh=7d56ae5b55caa01eb2766748a6fa272f&oe=5EEB9DE7"
